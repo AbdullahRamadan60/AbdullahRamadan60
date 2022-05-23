@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Abdullah Ramadan</h1>
-<!-- <h3 align="center">A passionate software tester</h3> -->
+<h3 align="center">A Software Tester</h3>
 
 - 📫 Reach me at **abdullah.ramadan60@gmail.com**
 
