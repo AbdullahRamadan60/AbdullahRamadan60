@@ -14,6 +14,7 @@
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://static.javatpoint.com/images/javascript/javascript_logo.png" alt="JavaScript" width="45" height="40"/> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> <img src="https://learn.microsoft.com/en-us/media/logos/logo_csharp.svg" alt="C#" width="40" height="40"/> </a>
+   <a href="https://www.python.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/121px-Python-logo-notext.svg.png" alt="Python" width="40" height="43"/> </a>
   <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a>
   <a href="https://www.cucumber.io" target="_blank" rel="noreferrer"> <img src="https://cucumber.io/img/favicon.png" alt="cucumber" width="40" height="40"/> </a>
   <a href="https://testng.org/doc/" target="_blank" rel="noreferrer"> <img src="https://e7.pngegg.com/pngimages/640/776/png-clipart-testng-logo-software-testing-software-framework-computer-icons-automation-testing-angle-text.png" alt="testNG" width="45" height="45"/> </a>
